@@ -1,0 +1,8 @@
+{
+    "browser": "chrome",
+    "options": [
+        "--incognito",
+        "--start-maximized"
+    ],
+    "wait_time": 10
+}

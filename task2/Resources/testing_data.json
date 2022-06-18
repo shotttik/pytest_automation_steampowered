@@ -1,0 +1,16 @@
+{
+    "base_url": "https://steampowered.com",
+    "search_options": {
+        "main": [
+            "Action",
+            "SteamOS + Linux"
+        ],
+        "additional": [
+            {
+                "block": "Narrow by number of players",
+                "data": "LAN Co-op"
+            }
+        ],
+        "game_number": 1
+    }
+}
